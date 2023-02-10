@@ -19,7 +19,7 @@ setInterval(function() {
   $quoteOut.removeClass('fade-out').addClass('fade-in');
   
   
-}, 6000);
+}, 9000);
 
 // Show the first quote, or you could add the class in the mark-up
 // by default.
