@@ -23,7 +23,7 @@ blockquote:before {
   
   border-top: 1px solid #47A3DA;
   
-  animation: bar 6s linear forwards infinite;
+  animation: bar 9s linear forwards infinite;
 }
 
 /* Attribution */
