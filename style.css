@@ -1,5 +1,5 @@
 figure {
-  position: absolute;
+  position: relative;
 }
 
 /* Quotes */
@@ -11,7 +11,7 @@ blockquote {
   
   color: #888;
   font-family: 'Open Sans';
-  font-size: 2em;
+  font-size: 1em;
   
   opacity: 0;
 }
